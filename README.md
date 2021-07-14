@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<details>
+  <summary>More...</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafatemur&show_icons=true&count_private=true&theme=dark" />
+</details>
+
 <!--
 **mustafatemur/mustafatemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
