@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+```JS
+  const AboutMe = [
+    {
+      name: "Mustafa TEMUR",
+      location: "Istanbul, TURKEY",
+      role: "Software Developer",
+      languages: ["en_US", "tr_TR"],
+      hobbies: ["Electronics", "Graphic design"],
+      contact: "https://docs.google.com/forms/d/e/1FAIpQLSdaYROS0O4m5asJN0Q1LmGcG44YppwLNgkAr0oAihQDKGIY-Q/viewform"
+    }
+  ]
+```
+
 If you have any questions at all, please do not hesitate to [contact me](https://docs.google.com/forms/d/e/1FAIpQLSdaYROS0O4m5asJN0Q1LmGcG44YppwLNgkAr0oAihQDKGIY-Q/viewform "contact me")
 
 <details>
